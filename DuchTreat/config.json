@@ -1,0 +1,18 @@
+{
+  "DisableSSL": false,
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Database=DuchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "key": "dsgdffgjhertrtyuyjgfggroppite",
+    "Issuer": "localhost",
+    "Audience": "localhost"
+  }
+}
